@@ -3,7 +3,7 @@
 # Senior Design Team 11
 # Load Cell Data
 
-from sklearn import	linear_model
+from sklearn import linear_model
 from sklearn.metrics import r2_score
 
 
